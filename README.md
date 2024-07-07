@@ -1,4 +1,4 @@
-This projected is created to enable the user to feed multiple PDF (saved ecommerce product web pages) to OpenAI and ask the questions like related to their comparison and recommendation based on the provided or default prompt.
+This project is created to enable the user to feed multiple PDF (saved ecommerce product web pages) to OpenAI and ask the questions like related to their comparison and recommendation based on the provided or default prompt.
 
 ### How to Use ###
 
